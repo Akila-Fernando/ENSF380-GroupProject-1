@@ -1,4 +1,6 @@
 # ENSF380 Group Project 1 <br>
+
+## Group 7 Members
 Akila Fernando <br>
 Rinad Hamid <br>
 Sean Pham<br>
